@@ -6,7 +6,7 @@ This is a movie recommendation system which uses content based filtering. In thi
 
 First use the Recommender system file and execute the file (recommended to run in Jupyter Notebook).
 
-After executing the Recommender system file the folder running Recommender system system will have movie.pkl,movie_dict.pkl,similarity.pkl
+After executing the Recommender system file in the folder will have movie.pkl,movie_dict.pkl,similarity.pkl
 
 Move the above three files in the same place as the app.py file 
 
